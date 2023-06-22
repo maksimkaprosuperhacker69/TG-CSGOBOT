@@ -1,0 +1,3835 @@
+{
+    "items": [
+        {
+            "id": 5910116,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198151857997",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 106.41,
+                    "successRate": 59.46
+                }
+            },
+            "asset": {
+                "id": 29513276455,
+                "names": {
+                    "short": "\u2605 Butterfly Knife | Gamma Doppler Emerald",
+                    "full": "\u2605 Butterfly Knife | Gamma Doppler Emerald (Factory New)",
+                    "identifier": 1087495
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/1ee086162762fa62bd30825498e898ea_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPL5NqnQmm9u5cRjiOXE_JbwjGu4ohQ0J3f6JtPEegNrMwvUrwe6kLjsjcPtuJXJmnFguCMn5i7enkDkiRFIabM7m7XAHtBCTvK7",
+                    "preview": "https://s1.cs.money/1ee086162762fa62bd30825498e898ea_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 827,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.024013688787817,
+                "inspect": "14451501658383191253",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 26613.8,
+                "priceBeforeDiscount": 26613.8,
+                "extra": null,
+                "discount": 0.1734,
+                "computed": 21999.99
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/1ee086162762fa62bd30825498e898ea"
+            }
+        },
+        {
+            "id": 7249506,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199024852577",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 10.71,
+                    "successRate": 66.67
+                }
+            },
+            "asset": {
+                "id": 30418504157,
+                "names": {
+                    "short": "\u2605 M9 Bayonet | Doppler Sapphire",
+                    "full": "\u2605 M9 Bayonet | Doppler Sapphire (Factory New)",
+                    "identifier": 11102
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-KmsjnMqvBnmJD7fp8i_vD-Yn8klGwlB81NDG3OtSUJgY7YVvS-VfolLq7hsO5tZ_OnXo3uyhz7SyPnhGx0xoeb-dugKOACQLJ28w8Lgw"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 510,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.028459161520004,
+                "inspect": "3318841124704089894",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 22322.1,
+                "priceBeforeDiscount": 22322.1,
+                "extra": null,
+                "discount": 0.2093,
+                "computed": 17650
+            },
+            "links": {}
+        },
+        {
+            "id": 5860032,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198306395692",
+                "botId": 271,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26909830983,
+                "names": {
+                    "short": "\u2605 Butterfly Knife | Gamma Doppler Emerald",
+                    "full": "\u2605 StatTrak\u2122 Butterfly Knife | Gamma Doppler Emerald (Minimal Wear)",
+                    "identifier": 1088265
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/fd45ff83324b4f6d7b69c1a392fd6bd8_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqPL5NqnQmm9u5cRjiOXE_JbwjGu4ohQ0J3f6JtPEegNrMwvUrwe6kLjsjcPtuJXJmnFguCMn5i7enkDkiRFIabM7m7XAHtBCTvK7",
+                    "preview": "https://s1.cs.money/fd45ff83324b4f6d7b69c1a392fd6bd8_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 186,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.071122922,
+                "inspect": "5352541970863137913",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 21500,
+                "priceBeforeDiscount": 21500,
+                "extra": null,
+                "discount": 0.2308,
+                "computed": 16538.46
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/fd45ff83324b4f6d7b69c1a392fd6bd8"
+            }
+        },
+        {
+            "id": 7416911,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199495524555",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 313.04,
+                    "successRate": 66.67
+                }
+            },
+            "asset": {
+                "id": 30510699966,
+                "names": {
+                    "short": "AWP | Dragon Lore",
+                    "full": "AWP | Dragon Lore (Factory New)",
+                    "identifier": 908
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/f8b7b0faf623f86b07f44edebff3b016_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv2P9o6migzl_Us5ZmCmLYDDJgU9NA6B81S5yezvg8e-7cycnXJgvHZx5WGdwUJqz1Tl4g",
+                    "preview": "https://s1.cs.money/f8b7b0faf623f86b07f44edebff3b016_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 337,
+                "type": 4,
+                "collection": {
+                    "name": "Cobblestone",
+                    "image": null
+                },
+                "float": 0.03164383023977201,
+                "inspect": "10108019862963543179",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Sticker Capsule"
+                    },
+                    "name": "Sticker | Luck Skill (Foil)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/standard/luck_foil.220004025bed6dbe71f65cc2913c2eda5ac97a8a.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-luck-skill-foil",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 6.69,
+                        "rarity": 0.3
+                    }
+                },
+                null,
+                null,
+                null
+            ],
+            "pricing": {
+                "default": 18897.02,
+                "priceBeforeDiscount": 18897.02,
+                "extra": {
+                    "float": 305.15,
+                    "stickers": 0.3
+                },
+                "discount": 0.2433,
+                "computed": 14300
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/f8b7b0faf623f86b07f44edebff3b016"
+            }
+        },
+        {
+            "id": 6574012,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199192478847",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 16.35,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 30051698546,
+                "names": {
+                    "short": "AWP | Dragon Lore",
+                    "full": "AWP | Dragon Lore (Factory New)",
+                    "identifier": 908
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv2P9o6migzl_Us5ZmCmLYDDJgU9NA6B81S5yezvg8e-7cycnXJgvHZx5WGdwUJqz1Tl4g"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 343,
+                "type": 4,
+                "collection": {
+                    "name": "Cobblestone",
+                    "image": null
+                },
+                "float": 0.014952092431485,
+                "inspect": "7396707782961150699",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "London 2018 Player Autographs"
+                    },
+                    "name": "Sticker | captainMo (Gold) | London 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/sig_captainmo_gold.ab07235a798123c74aee7fff15b9cbc844b097c6.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-captainmo-gold-london-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 331.5,
+                        "rarity": 60.8
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "London 2018 Player Autographs"
+                    },
+                    "name": "Sticker | captainMo (Gold) | London 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/sig_captainmo_gold.ab07235a798123c74aee7fff15b9cbc844b097c6.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-captainmo-gold-london-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 331.5,
+                        "rarity": 101.3
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "London 2018 Player Autographs"
+                    },
+                    "name": "Sticker | captainMo (Gold) | London 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/sig_captainmo_gold.ab07235a798123c74aee7fff15b9cbc844b097c6.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-captainmo-gold-london-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 331.5,
+                        "rarity": 101.3
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "London 2018 Player Autographs"
+                    },
+                    "name": "Sticker | captainMo (Gold) | London 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/london2018/sig_captainmo_gold.ab07235a798123c74aee7fff15b9cbc844b097c6.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-captainmo-gold-london-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 331.5,
+                        "rarity": 162.1
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 18437.03,
+                "priceBeforeDiscount": 19793.52,
+                "extra": {
+                    "float": 930.99,
+                    "stickers": 425.5
+                },
+                "discount": -0.1721,
+                "computed": 23200
+            },
+            "links": {}
+        },
+        {
+            "id": 7100522,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198213534907",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 0.71,
+                    "successRate": 40
+                }
+            },
+            "asset": {
+                "id": 24999032029,
+                "names": {
+                    "short": "\u2605 Karambit | Doppler Sapphire",
+                    "full": "\u2605 Karambit | Doppler Sapphire (Factory New)",
+                    "identifier": 3364
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/76d1539bf0b491f9e7da32dc8dab807a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20hPbkI7PYhG5u5cRjiOXE_JbwjGu4ohQ0J3egI4ORcQNqYw3W8la5w-frgJK77ZXKwCQysyVwtnbayxKzhxlIarRum7XAHvqFh2jA",
+                    "preview": "https://s1.cs.money/76d1539bf0b491f9e7da32dc8dab807a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 307,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.035412646830081,
+                "inspect": "5632921377561195027",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 18911.9,
+                "priceBeforeDiscount": 18911.9,
+                "extra": null,
+                "discount": 0.1011,
+                "computed": 17000
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/76d1539bf0b491f9e7da32dc8dab807a"
+            }
+        },
+        {
+            "id": 5439602,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198000832504",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 35.01,
+                    "successRate": 87.5
+                }
+            },
+            "asset": {
+                "id": 26971017848,
+                "names": {
+                    "short": "\u2605 Karambit | Doppler Sapphire",
+                    "full": "\u2605 Karambit | Doppler Sapphire (Factory New)",
+                    "identifier": 3364
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/869dd2e35f5e32c2d84d2431361c1014_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20hPbkI7PYhG5u5cRjiOXE_JbwjGu4ohQ0J3egI4ORcQNqYw3W8la5w-frgJK77ZXKwCQysyVwtnbayxKzhxlIarRum7XAHvqFh2jA",
+                    "preview": "https://s1.cs.money/869dd2e35f5e32c2d84d2431361c1014_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 27,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.027725610882043,
+                "inspect": "7521051138233940533",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 18865.1,
+                "priceBeforeDiscount": 18865.1,
+                "extra": null,
+                "discount": 0.0777,
+                "computed": 17400
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/869dd2e35f5e32c2d84d2431361c1014"
+            }
+        },
+        {
+            "id": 7232569,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198294908835",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 20734469888,
+                "names": {
+                    "short": "AWP | Gungnir",
+                    "full": "AWP | Gungnir (Factory New)",
+                    "identifier": 1074896
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJF-dKxmomZqPv9NLPF2G0JuMYj0ryYodzz3wG3qBJpa27wJdKdJ1dqZwqE8gPrwL3ujcO_tM_XiSw0r8Krvkk"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 522,
+                "type": 4,
+                "collection": {
+                    "name": "Norse",
+                    "image": null
+                },
+                "float": 0.05759308114647801,
+                "inspect": "576718908433554535",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "2020 RMR Legends"
+                    },
+                    "name": "Sticker | Spirit (Holo) | 2020 RMR",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/spir_holo.bc0afe77195df300e2798479859fc9c35d1fa487.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-spirit-holo-2020-rmr",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0.31,
+                        "rarity": 0.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "2020 RMR Legends"
+                    },
+                    "name": "Sticker | Spirit (Holo) | 2020 RMR",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/spir_holo.bc0afe77195df300e2798479859fc9c35d1fa487.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-spirit-holo-2020-rmr",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0.31,
+                        "rarity": 0.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "2020 RMR Legends"
+                    },
+                    "name": "Sticker | Spirit (Holo) | 2020 RMR",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/spir_holo.bc0afe77195df300e2798479859fc9c35d1fa487.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-spirit-holo-2020-rmr",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0.31,
+                        "rarity": 0.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "2020 RMR Legends"
+                    },
+                    "name": "Sticker | Spirit (Holo) | 2020 RMR",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/spir_holo.bc0afe77195df300e2798479859fc9c35d1fa487.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-spirit-holo-2020-rmr",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0.31,
+                        "rarity": 0.2
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 18337.5,
+                "priceBeforeDiscount": 18338,
+                "extra": {
+                    "stickers": 0.5
+                },
+                "discount": -0.0354,
+                "computed": 18987.26
+            },
+            "links": {}
+        },
+        {
+            "id": 7047221,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198291863533",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 3.47,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 29538132528,
+                "names": {
+                    "short": "\u2605 Sport Gloves | Pandora's Box",
+                    "full": "\u2605 Sport Gloves | Pandora's Box (Minimal Wear)",
+                    "identifier": 10553
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/cb45d2fbf6b0e08cd66419b0d919c964_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOmgZKbm_LLP7LWnn8fvZNwj7zA8duk2FHk_Uo6Y23zcI6TIVdvZA6BqVi7w7i7hpPo7sjNwWwj5HcYIjYaag",
+                    "preview": "https://s1.cs.money/cb45d2fbf6b0e08cd66419b0d919c964_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Extraordinary",
+                "pattern": null,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": null,
+                "inspect": "14288143095252388670",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 17459,
+                "priceBeforeDiscount": 17459,
+                "extra": null,
+                "discount": -0.031,
+                "computed": 18000
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/cb45d2fbf6b0e08cd66419b0d919c964"
+            }
+        },
+        {
+            "id": 5287564,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198998093946",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 5.76,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 28472295735,
+                "names": {
+                    "short": "AWP | Gungnir",
+                    "full": "AWP | Gungnir (Minimal Wear)",
+                    "identifier": 1075032
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/f210dc791a40500e681c8c213ca6165a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJF-dKxmomZqPv9NLPF2G0JuMYj0ryYodzz3wG3qBJpa27wJdKdJ1dqZwqE8gPrwL3ujcO_tM_XiSw0r8Krvkk",
+                    "preview": "https://s1.cs.money/f210dc791a40500e681c8c213ca6165a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 591,
+                "type": 4,
+                "collection": {
+                    "name": "Norse",
+                    "image": null
+                },
+                "float": 0.12990723550319602,
+                "inspect": "12105692164043463693",
+                "rank": null
+            },
+            "stickers": [
+                null,
+                null,
+                null,
+                {
+                    "collection": {
+                        "name": "10 Year Birthday Sticker Capsule"
+                    },
+                    "name": "Sticker | Cbbl (Holo)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/csgo10/cbbl_holo.5a7927a80fe0bd976e11ebb8fb620ae66003fb52.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-cbbl-holo",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1.67,
+                        "rarity": 0.3
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 15942.3,
+                "priceBeforeDiscount": 15942.3,
+                "extra": {
+                    "stickers": 0.3
+                },
+                "discount": 0.2168,
+                "computed": 12486.78
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/f210dc791a40500e681c8c213ca6165a"
+            }
+        },
+        {
+            "id": 7506522,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198317996092",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 221.89,
+                    "successRate": 75
+                }
+            },
+            "asset": {
+                "id": 22490007757,
+                "names": {
+                    "short": "\u2605 Butterfly Knife | Doppler Ruby",
+                    "full": "\u2605 StatTrak\u2122 Butterfly Knife | Doppler Ruby (Factory New)",
+                    "identifier": 7658
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/0596cfb22049b1090e9269a624c3c22d_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqOXhMaLum2pD6sl0g_PE8bP5gVO8v11kYjjzJ9KcIFI5YliDqAXoxbrsgpC9up_BmCM17nYh4SndzRLl1xwdcKUx0pRZROip",
+                    "preview": "https://s1.cs.money/0596cfb22049b1090e9269a624c3c22d_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 776,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.008664953522384,
+                "inspect": "5215391099698728701",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 14467.3,
+                "priceBeforeDiscount": 14467.3,
+                "extra": null,
+                "discount": -0.1984,
+                "computed": 17337.66
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/0596cfb22049b1090e9269a624c3c22d"
+            }
+        },
+        {
+            "id": 5343482,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198808418508",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 5.15,
+                    "successRate": 66.67
+                }
+            },
+            "asset": {
+                "id": 29380848657,
+                "names": {
+                    "short": "\u2605 Butterfly Knife | Doppler Ruby",
+                    "full": "\u2605 StatTrak\u2122 Butterfly Knife | Doppler Ruby (Factory New)",
+                    "identifier": 7658
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/c330c46ed110c67a93b160549df801bd_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqOXhMaLum2pD6sl0g_PE8bP5gVO8v11kYjjzJ9KcIFI5YliDqAXoxbrsgpC9up_BmCM17nYh4SndzRLl1xwdcKUx0pRZROip",
+                    "preview": "https://s1.cs.money/c330c46ed110c67a93b160549df801bd_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 255,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.035955056548118,
+                "inspect": "5657240558024795261",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 14467.3,
+                "priceBeforeDiscount": 14467.3,
+                "extra": null,
+                "discount": -0.2182,
+                "computed": 17623.91
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/c330c46ed110c67a93b160549df801bd"
+            }
+        },
+        {
+            "id": 7395575,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198036030455",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 94.41
+                }
+            },
+            "asset": {
+                "id": 30509521748,
+                "names": {
+                    "short": "\u2605 Karambit | Doppler Ruby",
+                    "full": "\u2605 Karambit | Doppler Ruby (Factory New)",
+                    "identifier": 9670
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/11624b351ecdff52e523d999807ae4b8_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20heL2KoTcl3lT5MB4kOzFyoD8j1yg5UNkaz_xIdfEd1A5aQ3U-lPskunphJHptZvPwSM26CUht3_UmUe3gEpSLrs4ZlidBgY",
+                    "preview": "https://s1.cs.money/11624b351ecdff52e523d999807ae4b8_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 637,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.033631574362516,
+                "inspect": "6945228900018403995",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 14014.2,
+                "priceBeforeDiscount": 14014.2,
+                "extra": null,
+                "discount": 0.2161,
+                "computed": 10986
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/11624b351ecdff52e523d999807ae4b8"
+            }
+        },
+        {
+            "id": 4826626,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198043491079",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 28041386673,
+                "names": {
+                    "short": "\u2605 Karambit | Doppler Ruby",
+                    "full": "\u2605 Karambit | Doppler Ruby (Factory New)",
+                    "identifier": 9670
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/0aad3cdf41be422c6fbeb34a3b556d95_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlY20heL2KoTcl3lT5MB4kOzFyoD8j1yg5UNkaz_xIdfEd1A5aQ3U-lPskunphJHptZvPwSM26CUht3_UmUe3gEpSLrs4ZlidBgY",
+                    "preview": "https://s1.cs.money/0aad3cdf41be422c6fbeb34a3b556d95_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 370,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.009272444061934,
+                "inspect": "11866460145626077755",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 14435.26,
+                "priceBeforeDiscount": 14435.26,
+                "extra": {
+                    "float": 540.96
+                },
+                "discount": 0.0302,
+                "computed": 13999.99
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/0aad3cdf41be422c6fbeb34a3b556d95"
+            }
+        },
+        {
+            "id": 7361943,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198036030455",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 94.41
+                }
+            },
+            "asset": {
+                "id": 30487367076,
+                "names": {
+                    "short": "AWP | Dragon Lore",
+                    "full": "AWP | Dragon Lore (Minimal Wear)",
+                    "identifier": 14413
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/29c66ac02793490e9fa511c23a8da252_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5Mx2gv2P9o6migzl_Us5ZmCmLYDDJgU9NA6B81S5yezvg8e-7cycnXJgvHZx5WGdwUJqz1Tl4g",
+                    "preview": "https://s1.cs.money/29c66ac02793490e9fa511c23a8da252_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Covert",
+                "pattern": 924,
+                "type": 4,
+                "collection": {
+                    "name": "Cobblestone",
+                    "image": null
+                },
+                "float": 0.096162222325801,
+                "inspect": "11540091734709006407",
+                "rank": null
+            },
+            "stickers": [
+                null,
+                null,
+                null,
+                {
+                    "collection": {
+                        "name": "Stockholm 2021 Player Autographs"
+                    },
+                    "name": "Sticker | Jame (Gold) | Stockholm 2021",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_jame_gold.f5d03b5fd70ed88d1e778f001e3f9a344ffb02f1.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-jame-gold-stockholm-2021",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 36.26,
+                        "rarity": 3.3
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 13995.2,
+                "priceBeforeDiscount": 13998.5,
+                "extra": {
+                    "stickers": 3.3
+                },
+                "discount": 0.2159,
+                "computed": 10976
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/29c66ac02793490e9fa511c23a8da252"
+            }
+        },
+        {
+            "id": 5812047,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198142818170",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 442.23,
+                    "successRate": 33.33
+                }
+            },
+            "asset": {
+                "id": 27823068109,
+                "names": {
+                    "short": "Sticker | Team LDLC.com (Holo) | Katowice 2014",
+                    "full": "Sticker | Team LDLC.com (Holo) | Katowice 2014",
+                    "identifier": 17588
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/d0615d9f18ef3f3d4a313ca58c8868da_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRYQV_bRvCiwMbQVg8kdFAYur6pKDho3P_HPztHvYm0wNmNxqasYL-Jxj4Iv51yjO-Vpoiiiw2wrUU_NjigLYGQcQcgIQaHyeFcaTQ",
+                    "preview": "https://s1.cs.money/d0615d9f18ef3f3d4a313ca58c8868da_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": null,
+                "rarity": "Remarkable",
+                "pattern": null,
+                "type": 10,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": null,
+                "inspect": "16441076443072371755",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 13873.6,
+                "priceBeforeDiscount": 13873.6,
+                "extra": null,
+                "discount": -0.7763,
+                "computed": 24644.03
+            },
+            "links": {
+                "3d": null
+            }
+        },
+        {
+            "id": 7232600,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198294908835",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 24825978434,
+                "names": {
+                    "short": "AWP | Dragon Lore",
+                    "full": "AWP | Dragon Lore (Field-Tested)",
+                    "identifier": 2820
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/95ba258e3f94e2d9f213864b52c14c5a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5cB1g_zMu9zw3g2yrkVtZ2r6IoSVdAU-ZVrY_lS6lb_ogsDqu57NmCQ27iJx53nD30vgUTXWscs",
+                    "preview": "https://s1.cs.money/95ba258e3f94e2d9f213864b52c14c5a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Covert",
+                "pattern": 889,
+                "type": 4,
+                "collection": {
+                    "name": "Cobblestone",
+                    "image": null
+                },
+                "float": 0.264387339353561,
+                "inspect": "17205052685555119817",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Riptide Surf Shop Sticker Collection"
+                    },
+                    "name": "Sticker | Dragon Lore Surf Ava (Foil)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/riptide_surfshop/surf_ava_02.6cddb7ab7e90a163d63007bf5820bf7ebf08fef9.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-dragon-lore-surf-ava-foil",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 9.53,
+                        "rarity": 0.2
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Stockholm 2021 Player Autographs"
+                    },
+                    "name": "Sticker | electroNic (Gold) | Stockholm 2021",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_electronic_gold.b2e15f0e53620a6d474ddf680e21108cca339934.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-electronic-gold-stockholm-2021",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 6.32,
+                        "rarity": 0.5
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Stockholm 2021 Player Autographs"
+                    },
+                    "name": "Sticker | electroNic (Gold) | Stockholm 2021",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_electronic_gold.b2e15f0e53620a6d474ddf680e21108cca339934.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-electronic-gold-stockholm-2021",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 6.32,
+                        "rarity": 0.5
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Stockholm 2021 Legends Stickers"
+                    },
+                    "name": "Sticker | Natus Vincere (Gold) | Stockholm 2021",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/navi_gold.1eb5701fd98013cbaf65a90cd867568cb528daca.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-natus-vincere-gold-stockholm-2021",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 15.19,
+                        "rarity": 1.3
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 9465.17,
+                "priceBeforeDiscount": 9467.67,
+                "extra": {
+                    "stickers": 2.5
+                },
+                "discount": -0.0027,
+                "computed": 9493.63
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/95ba258e3f94e2d9f213864b52c14c5a"
+            }
+        },
+        {
+            "id": 7070778,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198140537889",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30236459946,
+                "names": {
+                    "short": "AWP | Dragon Lore",
+                    "full": "AWP | Dragon Lore (Field-Tested)",
+                    "identifier": 2820
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/e1bfbaebef1b212f75be39c599059ad9_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdTRH-t26q4SZlvD7PYTQgXtu5cB1g_zMu9zw3g2yrkVtZ2r6IoSVdAU-ZVrY_lS6lb_ogsDqu57NmCQ27iJx53nD30vgUTXWscs",
+                    "preview": "https://s1.cs.money/e1bfbaebef1b212f75be39c599059ad9_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "ft",
+                "rarity": "Covert",
+                "pattern": 422,
+                "type": 4,
+                "collection": {
+                    "name": "Cobblestone",
+                    "image": null
+                },
+                "float": 0.18045003712177202,
+                "inspect": "2650621271781840449",
+                "rank": null
+            },
+            "stickers": [
+                null,
+                null,
+                null,
+                {
+                    "collection": {
+                        "name": "Paris 2023 Legends Stickers"
+                    },
+                    "name": "Sticker | Natus Vincere | Paris 2023",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/navi.7d87992823d804c353ab39436ce9b115c1b7b001.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-natus-vincere-paris-2023",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0,
+                        "rarity": null
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 8996.15,
+                "priceBeforeDiscount": 10608.47,
+                "extra": {
+                    "float": 1612.32
+                },
+                "discount": 0.0533,
+                "computed": 10042.7
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/e1bfbaebef1b212f75be39c599059ad9"
+            }
+        },
+        {
+            "id": 5408382,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198063090941",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 130.05,
+                    "successRate": 67.65
+                }
+            },
+            "asset": {
+                "id": 29440789883,
+                "names": {
+                    "short": "\u2605 Survival Knife | Crimson Web",
+                    "full": "\u2605 StatTrak\u2122 Survival Knife | Crimson Web (Factory New)",
+                    "identifier": 1077472
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/4dbdbbc42c3e93ae7295d0f56613dd9c_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC595MWJg4WJhMj4OrzZgiUGupMgjOqWp4_x3FDm8hJsYWulcoaVcgFoM1nZ_Vjox-no08Xo6MzM1zI97YS31G99",
+                    "preview": "https://s1.cs.money/4dbdbbc42c3e93ae7295d0f56613dd9c_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 168,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.06861364841461101,
+                "inspect": "12279709746351309304",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 10452.4,
+                "priceBeforeDiscount": 10452.4,
+                "extra": null,
+                "discount": 0.5642,
+                "computed": 4555.55
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/4dbdbbc42c3e93ae7295d0f56613dd9c"
+            }
+        },
+        {
+            "id": 7189091,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199024852577",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 10.71,
+                    "successRate": 66.67
+                }
+            },
+            "asset": {
+                "id": 30327342314,
+                "names": {
+                    "short": "\u2605 Talon Knife | Doppler Sapphire",
+                    "full": "\u2605 Talon Knife | Doppler Sapphire (Factory New)",
+                    "identifier": 201969
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/9fc82dbe151e84fc7bbb4d3747e34f13_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjnMqvBnmJD7fp8i_vD-Yn8klGwlB81NDG3Oo6WIw9vMF-BqAfokuzv18LptcnLziEyvCEksC2PlkeziR0eO-I9gvCACQLJ2IFZdow",
+                    "preview": "https://s1.cs.money/9fc82dbe151e84fc7bbb4d3747e34f13_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 556,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.034363765269517,
+                "inspect": "12538836049285223097",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 10391.2,
+                "priceBeforeDiscount": 10391.2,
+                "extra": null,
+                "discount": 0.2513,
+                "computed": 7780
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/9fc82dbe151e84fc7bbb4d3747e34f13"
+            }
+        },
+        {
+            "id": 7329279,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199192478847",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 16.35,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 30051698568,
+                "names": {
+                    "short": "\u2605 Talon Knife | Doppler Sapphire",
+                    "full": "\u2605 Talon Knife | Doppler Sapphire (Factory New)",
+                    "identifier": 201969
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjnMqvBnmJD7fp8i_vD-Yn8klGwlB81NDG3Oo6WIw9vMF-BqAfokuzv18LptcnLziEyvCEksC2PlkeziR0eO-I9gvCACQLJ2IFZdow"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 779,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.01034390926361,
+                "inspect": "864831961681369113",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 10391.2,
+                "priceBeforeDiscount": 10391.2,
+                "extra": null,
+                "discount": 0.2216,
+                "computed": 8088
+            },
+            "links": {}
+        },
+        {
+            "id": 5032831,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198332853978",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 45.06,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 29053607194,
+                "names": {
+                    "short": "USP-S | Cortex",
+                    "full": "StatTrak\u2122 USP-S | Cortex (Factory New)",
+                    "identifier": 24984
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/49bdf8e04a302f5f481d7ebb5e36e653_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j3Jq_ummJW4NE_376S84-tiwHt_0VqZDzwI47DcVNqaFDZ-gLrxea918S5tJucwSY2uj5iuygjNe-uOA",
+                    "preview": "https://s1.cs.money/49bdf8e04a302f5f481d7ebb5e36e653_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Classified",
+                "pattern": 721,
+                "type": 5,
+                "collection": {
+                    "name": "Clutch",
+                    "image": null
+                },
+                "float": 0.00683000544086,
+                "inspect": "14036108330101110529",
+                "rank": null
+            },
+            "stickers": [
+                null,
+                null,
+                null,
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Challengers"
+                    },
+                    "name": "Sticker | Vox Eminor (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/voxeminor_holo.795b3b31d21969cc397ff87be1b969bb479578f8.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-vox-eminor-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1719.89,
+                        "rarity": 469.7
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 114.89,
+                "priceBeforeDiscount": 589.51,
+                "extra": {
+                    "float": 4.92,
+                    "stickers": 469.7
+                },
+                "discount": 0.1378,
+                "computed": 508.29
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/49bdf8e04a302f5f481d7ebb5e36e653"
+            }
+        },
+        {
+            "id": 4966327,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198258479999",
+                "botId": 572,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27204995615,
+                "names": {
+                    "short": "USP-S | Cortex",
+                    "full": "StatTrak\u2122 USP-S | Cortex (Factory New)",
+                    "identifier": 24984
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/435c88da9ddbcd649ff321a0a6ee0792_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j3Jq_ummJW4NE_376S84-tiwHt_0VqZDzwI47DcVNqaFDZ-gLrxea918S5tJucwSY2uj5iuygjNe-uOA",
+                    "preview": "https://s1.cs.money/435c88da9ddbcd649ff321a0a6ee0792_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Classified",
+                "pattern": 508,
+                "type": 5,
+                "collection": {
+                    "name": "Clutch",
+                    "image": null
+                },
+                "float": 0.0030752062,
+                "inspect": "12315247408024851403",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "EMS Katowice 2014 Challengers"
+                    },
+                    "name": "Sticker | mousesports (Holo) | Katowice 2014",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/mousesports_holo.6269fa4dd218fdfe58953e70ccffd155e63097b3.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-mousesports-holo-katowice-2014",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 4007.47,
+                        "rarity": 1290.5
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "EMS Katowice 2014 Challengers"
+                    },
+                    "name": "Sticker | mousesports (Holo) | Katowice 2014",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/mousesports_holo.6269fa4dd218fdfe58953e70ccffd155e63097b3.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-mousesports-holo-katowice-2014",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 4007.47,
+                        "rarity": 3441.3
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "EMS Katowice 2014 Challengers"
+                    },
+                    "name": "Sticker | mousesports (Holo) | Katowice 2014",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/mousesports_holo.6269fa4dd218fdfe58953e70ccffd155e63097b3.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-mousesports-holo-katowice-2014",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 4007.47,
+                        "rarity": 2581
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "EMS Katowice 2014 Challengers"
+                    },
+                    "name": "Sticker | mousesports (Holo) | Katowice 2014",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/emskatowice2014/mousesports_holo.6269fa4dd218fdfe58953e70ccffd155e63097b3.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-mousesports-holo-katowice-2014",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 4007.47,
+                        "rarity": 2581
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 40.97,
+                "priceBeforeDiscount": 9944.48,
+                "extra": {
+                    "float": 9.71,
+                    "stickers": 9893.8
+                },
+                "discount": 0.2308,
+                "computed": 7649.6
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/435c88da9ddbcd649ff321a0a6ee0792"
+            }
+        },
+        {
+            "id": 6083786,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198036030455",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 94.41
+                }
+            },
+            "asset": {
+                "id": 29736462679,
+                "names": {
+                    "short": "M4A4 | Howl",
+                    "full": "M4A4 | Howl (Factory New)",
+                    "identifier": 12606
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/92a9f621939733b73a49a0d3ca00bf27_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwT09S5g4yCmfDLP7LWnn8f65Mli7DH9tXziQTgqUY4YmmnINSUJwQ-YVnT_wS7yOzngMW07ZrOmmwj5HeObpQQtA",
+                    "preview": "https://s1.cs.money/92a9f621939733b73a49a0d3ca00bf27_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Contraband",
+                "pattern": 493,
+                "type": 3,
+                "collection": {
+                    "name": "Huntsman",
+                    "image": null
+                },
+                "float": 0.04149876162409701,
+                "inspect": "7358958767777844844",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "ESL One Cologne 2015 Player Autographs"
+                    },
+                    "name": "Sticker | Snax | Cologne 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_snax.c3dd04b07adbce1e842848157b9c216f6a199553.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-snax-cologne-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 4.08,
+                        "rarity": 0.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Cologne 2015 Player Autographs"
+                    },
+                    "name": "Sticker | flusha | Cologne 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_flusha.72bbcbfe90d5be424f388d2d58232ead45959ac5.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-flusha-cologne-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1.86,
+                        "rarity": 0.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Cologne 2015 Legends"
+                    },
+                    "name": "Sticker | Fnatic | Cologne 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/fnatic.d3d7096212ae149d70d077ddab7f4e2ce13af3ea.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-fnatic-cologne-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 2.52,
+                        "rarity": 0.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "2020 RMR Challengers"
+                    },
+                    "name": "Sticker | Fnatic | 2020 RMR",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/rmr2020/fntc.eb723c420960e314d0c8465faab321288e476e9a.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-fnatic-2020-rmr",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0.05,
+                        "rarity": null
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 9904.59,
+                "priceBeforeDiscount": 9904.59,
+                "extra": {
+                    "float": 4.78,
+                    "stickers": 0.3
+                },
+                "discount": 0.072,
+                "computed": 9191
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/92a9f621939733b73a49a0d3ca00bf27"
+            }
+        },
+        {
+            "id": 7091067,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199024852577",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 10.71,
+                    "successRate": 66.67
+                }
+            },
+            "asset": {
+                "id": 30076042326,
+                "names": {
+                    "short": "\u2605 Driver Gloves | Snow Leopard",
+                    "full": "\u2605 Driver Gloves | Snow Leopard (Factory New)",
+                    "identifier": 1083995
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/2f45d4f80e9d7bc1104cbd8ab07b6a6e_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWdY781lxLuSp42l2Fbk8hVva23zLYKcJlI_YlHQqQLox-ruhJPvupnMznUx6Sc8pSGKK2u_NFg",
+                    "preview": "https://s1.cs.money/2f45d4f80e9d7bc1104cbd8ab07b6a6e_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Extraordinary",
+                "pattern": 140,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.066771991550922,
+                "inspect": "16168882224842047985",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 9100,
+                "priceBeforeDiscount": 9100,
+                "extra": null,
+                "discount": 0.2582,
+                "computed": 6750
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/2f45d4f80e9d7bc1104cbd8ab07b6a6e"
+            }
+        },
+        {
+            "id": 7147387,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198796162024",
+                "botId": 794,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 26951587510,
+                "names": {
+                    "short": "\u2605 Driver Gloves | Snow Leopard",
+                    "full": "\u2605 Driver Gloves | Snow Leopard (Factory New)",
+                    "identifier": 1083995
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/228770ce614893accb1f20c240c0e132_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWdY781lxLuSp42l2Fbk8hVva23zLYKcJlI_YlHQqQLox-ruhJPvupnMznUx6Sc8pSGKK2u_NFg",
+                    "preview": "https://s1.cs.money/228770ce614893accb1f20c240c0e132_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Extraordinary",
+                "pattern": 619,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0669617951,
+                "inspect": "11695817839888100795",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 9100,
+                "priceBeforeDiscount": 9100,
+                "extra": null,
+                "discount": 0.2308,
+                "computed": 7000
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/228770ce614893accb1f20c240c0e132"
+            }
+        },
+        {
+            "id": 7217709,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198800399265",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 6.76,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 30337986360,
+                "names": {
+                    "short": "\u2605 Karambit | Case Hardened",
+                    "full": "\u2605 Karambit | Case Hardened (Battle-Scarred)",
+                    "identifier": 2180
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/3ab9cc8a5a603ed3c47a430bc5e3697d_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_unm5Q_tw_0ruVpoih0AK1_UNoZzr2cdPDJgNtMl3TrwLvxu_ojJXutcvIynoy6D5iuyjQTohjUw",
+                    "preview": "https://s1.cs.money/3ab9cc8a5a603ed3c47a430bc5e3697d_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 586,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.65428751707077,
+                "inspect": "17188707495335514265",
+                "rank": null,
+                "backSide": 36,
+                "playSide": 27
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 1038.27,
+                "priceBeforeDiscount": 1038.27,
+                "extra": null,
+                "discount": -0.1049,
+                "computed": 1147.17
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/3ab9cc8a5a603ed3c47a430bc5e3697d"
+            }
+        },
+        {
+            "id": 7421950,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198808950084",
+                "botId": 1584,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30488577176,
+                "names": {
+                    "short": "\u2605 Karambit | Case Hardened",
+                    "full": "\u2605 Karambit | Case Hardened (Battle-Scarred)",
+                    "identifier": 2180
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/cab020ab3746c338e77f24e2d22f38b1_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_unm5Q_tw_0ruVpoih0AK1_UNoZzr2cdPDJgNtMl3TrwLvxu_ojJXutcvIynoy6D5iuyjQTohjUw",
+                    "preview": "https://s1.cs.money/cab020ab3746c338e77f24e2d22f38b1_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 687,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.6314094067,
+                "inspect": "14908054003806761497",
+                "rank": null,
+                "backSide": 5,
+                "playSide": 8
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 1038.27,
+                "priceBeforeDiscount": 1038.27,
+                "extra": null,
+                "discount": 0.1308,
+                "computed": 902.5
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/cab020ab3746c338e77f24e2d22f38b1"
+            }
+        },
+        {
+            "id": 7100644,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198341651025",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 8.67,
+                    "successRate": 88.89
+                }
+            },
+            "asset": {
+                "id": 30353763680,
+                "names": {
+                    "short": "\u2605 Karambit | Case Hardened",
+                    "full": "\u2605 Karambit | Case Hardened (Battle-Scarred)",
+                    "identifier": 2180
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/0a693dcefd4309935e6a64d023e6011d_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_unm5Q_tw_0ruVpoih0AK1_UNoZzr2cdPDJgNtMl3TrwLvxu_ojJXutcvIynoy6D5iuyjQTohjUw",
+                    "preview": "https://s1.cs.money/0a693dcefd4309935e6a64d023e6011d_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 766,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.9772092103958131,
+                "inspect": "10280143505334451289",
+                "rank": "Rank 4",
+                "backSide": 6,
+                "playSide": 52
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 1013.55,
+                "priceBeforeDiscount": 1526.45,
+                "extra": {
+                    "pattern": 512.9
+                },
+                "discount": 0.0835,
+                "computed": 1399
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/0a693dcefd4309935e6a64d023e6011d"
+            }
+        },
+        {
+            "id": 4891705,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199061157304",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27932021732,
+                "names": {
+                    "short": "\u2605 Karambit | Case Hardened",
+                    "full": "\u2605 Karambit | Case Hardened (Battle-Scarred)",
+                    "identifier": 2180
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/a3c297c33a32f1609ab3efb18b58ecf6_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_unm5Q_tw_0ruVpoih0AK1_UNoZzr2cdPDJgNtMl3TrwLvxu_ojJXutcvIynoy6D5iuyjQTohjUw",
+                    "preview": "https://s1.cs.money/a3c297c33a32f1609ab3efb18b58ecf6_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 4,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.7418525815010071,
+                "inspect": "2498592636713399543",
+                "rank": "Rank 1",
+                "backSide": 70,
+                "playSide": 68
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 1059.17,
+                "priceBeforeDiscount": 8642.17,
+                "extra": {
+                    "pattern": 7583
+                },
+                "discount": -0.0479,
+                "computed": 9055.81
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/a3c297c33a32f1609ab3efb18b58ecf6"
+            }
+        },
+        {
+            "id": 6197287,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561197990512973",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 20691633024,
+                "names": {
+                    "short": "\u2605 Karambit | Case Hardened",
+                    "full": "\u2605 Karambit | Case Hardened (Battle-Scarred)",
+                    "identifier": 2180
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/9ef21e46612cf61014bc66293d3fc3b2_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2PLacDBA5ciJlZG0mP74Nr_unm5Q_tw_0ruVpoih0AK1_UNoZzr2cdPDJgNtMl3TrwLvxu_ojJXutcvIynoy6D5iuyjQTohjUw",
+                    "preview": "https://s1.cs.money/9ef21e46612cf61014bc66293d3fc3b2_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "bs",
+                "rarity": "Covert",
+                "pattern": 262,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.79908013343811,
+                "inspect": "12403547420289611931",
+                "rank": "Rank 2",
+                "backSide": 34,
+                "playSide": 66
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 4081.73,
+                "priceBeforeDiscount": 4081.73,
+                "extra": {
+                    "pattern": 3079.6
+                },
+                "discount": -1.4446,
+                "computed": 9978.08
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/9ef21e46612cf61014bc66293d3fc3b2"
+            }
+        },
+        {
+            "id": 6419617,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198036030455",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 94.41
+                }
+            },
+            "asset": {
+                "id": 29830407748,
+                "names": {
+                    "short": "Sticker | HellRaisers (Holo) | Katowice 2014",
+                    "full": "Sticker | HellRaisers (Holo) | Katowice 2014",
+                    "identifier": 17850
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/90c70364cdc4348a81b63cdca8729968_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRYQV_bRvCiwMbQVg8kdFAYvr-pJxVh2uDNYy595NO6m87ZkvH3Y7mCxD0D7Mco3uuW9t2n31HgrRBkYz2hJ4edIAE2N1HQ_gDt366x0tLfgW0O",
+                    "preview": "https://s1.cs.money/90c70364cdc4348a81b63cdca8729968_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": null,
+                "rarity": "Remarkable",
+                "pattern": null,
+                "type": 10,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": null,
+                "inspect": "5197718058086298689",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 8396.61,
+                "priceBeforeDiscount": 8396.61,
+                "extra": null,
+                "discount": -0.5037,
+                "computed": 12626
+            },
+            "links": {
+                "3d": null
+            }
+        },
+        {
+            "id": 6419618,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198036030455",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 94.41
+                }
+            },
+            "asset": {
+                "id": 29851512709,
+                "names": {
+                    "short": "Sticker | HellRaisers (Holo) | Katowice 2014",
+                    "full": "Sticker | HellRaisers (Holo) | Katowice 2014",
+                    "identifier": 17850
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRYQV_bRvCiwMbQVg8kdFAYvr-pJxVh2uDNYy595NO6m87ZkvH3Y7mCxD0D7Mco3uuW9t2n31HgrRBkYz2hJ4edIAE2N1HQ_gDt366x0tLfgW0O"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": null,
+                "rarity": "Remarkable",
+                "pattern": null,
+                "type": 10,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": null,
+                "inspect": "13991177308459342337",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 8396.61,
+                "priceBeforeDiscount": 8396.61,
+                "extra": null,
+                "discount": -0.5037,
+                "computed": 12626
+            },
+            "links": {
+                "3d": null
+            }
+        },
+        {
+            "id": 7228999,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198312080885",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 31.83,
+                    "successRate": 81.27
+                }
+            },
+            "asset": {
+                "id": 30412439753,
+                "names": {
+                    "short": "\u2605 Talon Knife | Doppler Ruby",
+                    "full": "\u2605 Talon Knife | Doppler Ruby (Factory New)",
+                    "identifier": 201867
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjmJrnIqWZQ-sd9j-Db8IjKhF2zowdyNj37cYaQcQ8_NF7Zr1Dqwb270cPv6Z_Izydj7CkjtHrelkThhxwaP_sv26JqHcKn6w"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 467,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.016635667532682,
+                "inspect": "5666901569751414519",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 8072.41,
+                "priceBeforeDiscount": 8072.41,
+                "extra": null,
+                "discount": 0.133,
+                "computed": 6999
+            },
+            "links": {}
+        },
+        {
+            "id": 7527206,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198797564152",
+                "botId": 1113,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30473693542,
+                "names": {
+                    "short": "\u2605 M9 Bayonet | Doppler Black Pearl",
+                    "full": "\u2605 M9 Bayonet | Doppler Black Pearl (Factory New)",
+                    "identifier": 13742
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/22cd345b0b764bc092a08f92a021a2a9_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Kmsj2P7rSnXtU6dd9teTA5475jV2urhcDPzCkfMKLIwRvYwrWqVS8wezpjcS_78_Mn3Bruykj7HbfzhPm00xLOLc-jPXNHELeWfLcbrqw2A",
+                    "preview": "https://s1.cs.money/22cd345b0b764bc092a08f92a021a2a9_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 582,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0273950435,
+                "inspect": "16476083780255553346",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7993.55,
+                "priceBeforeDiscount": 7993.55,
+                "extra": null,
+                "discount": 0.1615,
+                "computed": 6702.28
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/22cd345b0b764bc092a08f92a021a2a9"
+            }
+        },
+        {
+            "id": 7172210,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198213534907",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 0.71,
+                    "successRate": 40
+                }
+            },
+            "asset": {
+                "id": 17177695105,
+                "names": {
+                    "short": "\u2605 M9 Bayonet | Doppler Black Pearl",
+                    "full": "\u2605 M9 Bayonet | Doppler Black Pearl (Factory New)",
+                    "identifier": 13742
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/b54917bf93b9628f56de96fc1e263c24_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3qr3czxb49KzgL-Kmsj2P7rSnXtU6dd9teTA5475jV2urhcDPzCkfMKLIwRvYwrWqVS8wezpjcS_78_Mn3Bruykj7HbfzhPm00xLOLc-jPXNHELeWfLcbrqw2A",
+                    "preview": "https://s1.cs.money/b54917bf93b9628f56de96fc1e263c24_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 370,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.029944688081741,
+                "inspect": "14699824256328225646",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7993.55,
+                "priceBeforeDiscount": 7993.55,
+                "extra": null,
+                "discount": -0.1885,
+                "computed": 9500
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/b54917bf93b9628f56de96fc1e263c24"
+            }
+        },
+        {
+            "id": 7261672,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198234658496",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 219.13,
+                    "successRate": 60
+                }
+            },
+            "asset": {
+                "id": 30444628944,
+                "names": {
+                    "short": "AWP | Desert Hydra",
+                    "full": "Souvenir AWP | Desert Hydra (Factory New)",
+                    "identifier": 1088626
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/ce9198bf352b3adb6998f4ce5fa8b555_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJK9diklb-HnvD8J_XQwDJT7Zwjju2U89XwjVLgr0tkMWCgIoKVJAVqMw7R_wW2kua5gp7vot2XnoZ1mdqn",
+                    "preview": "https://s1.cs.money/ce9198bf352b3adb6998f4ce5fa8b555_large_preview.png"
+                },
+                "isSouvenir": true,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 480,
+                "type": 4,
+                "collection": {
+                    "name": "2021 Mirage",
+                    "image": null
+                },
+                "float": 0.013572772964835,
+                "inspect": "17159505053546601191",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": null
+                    },
+                    "name": "Sticker | Mirage (Gold)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/tournament_assets/de_mirage_gold.9edfd0e55b7cc35978d9deff5bad9d68ab407f12.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-mirage-gold",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0,
+                        "rarity": null
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Paris 2023 Legends Stickers"
+                    },
+                    "name": "Sticker | Heroic (Gold) | Paris 2023",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/hero_gold.7dac0ad0656a6609c4f1653a9cd5a12cbf3ba206.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-heroic-gold-paris-2023",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0,
+                        "rarity": null
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Paris 2023 Challengers Stickers"
+                    },
+                    "name": "Sticker | GamerLegion (Gold) | Paris 2023",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/gl_gold.96559c1bb73ae60a13f86ae9d807e5d4f68dbe41.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-gamerlegion-gold-paris-2023",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0,
+                        "rarity": null
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Paris 2023 Legends Stickers"
+                    },
+                    "name": "Sticker | BLAST.tv (Gold) | Paris 2023",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/paris2023/blst_gold.9515aa0b90f61166380726637247424c51a8f129.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-blast.tv-gold-paris-2023",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 0,
+                        "rarity": null
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 7936.37,
+                "priceBeforeDiscount": 7936.37,
+                "extra": {
+                    "float": 419.88
+                },
+                "discount": -0.638,
+                "computed": 12999.99
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/ce9198bf352b3adb6998f4ce5fa8b555"
+            }
+        },
+        {
+            "id": 6510133,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198062980173",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 48.5,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 27058612944,
+                "names": {
+                    "short": "AK-47 | Gold Arabesque",
+                    "full": "AK-47 | Gold Arabesque (Factory New)",
+                    "identifier": 1087507
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/820ec8242e68a11d20cb85a253fa1a18_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09u5mIS0luX1Mb7Ch35U18l4jeHVu9zx2VbkqUE-NTqictOdJgQ_ZVDT_VG5xu3pgsO76MnNy3Fqvigg5yrD30vgkVPLuPE",
+                    "preview": "https://s1.cs.money/820ec8242e68a11d20cb85a253fa1a18_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 168,
+                "type": 3,
+                "collection": {
+                    "name": "2021 Dust 2",
+                    "image": null
+                },
+                "float": 0.061731625348329,
+                "inspect": "298612146976649075",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7738.61,
+                "priceBeforeDiscount": 7738.61,
+                "extra": null,
+                "discount": 0.1825,
+                "computed": 6326.41
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/820ec8242e68a11d20cb85a253fa1a18"
+            }
+        },
+        {
+            "id": 6140610,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199042041238",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27549218614,
+                "names": {
+                    "short": "AK-47 | Gold Arabesque",
+                    "full": "AK-47 | Gold Arabesque (Factory New)",
+                    "identifier": 1087507
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/3b4ed8fa048295b9d9adba6e06ec9927_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09u5mIS0luX1Mb7Ch35U18l4jeHVu9zx2VbkqUE-NTqictOdJgQ_ZVDT_VG5xu3pgsO76MnNy3Fqvigg5yrD30vgkVPLuPE",
+                    "preview": "https://s1.cs.money/3b4ed8fa048295b9d9adba6e06ec9927_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 117,
+                "type": 3,
+                "collection": {
+                    "name": "2021 Dust 2",
+                    "image": null
+                },
+                "float": 0.056086536496877,
+                "inspect": "5513712887556247319",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Legends"
+                    },
+                    "name": "Sticker | Team EnVyUs (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_holo.f899c827cecae6d746d4039d972aec6b3c8295a6.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-team-envyus-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 107.13,
+                        "rarity": 17.5
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Legends"
+                    },
+                    "name": "Sticker | Team EnVyUs (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_holo.f899c827cecae6d746d4039d972aec6b3c8295a6.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-team-envyus-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 107.13,
+                        "rarity": 14.6
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "ESL One Katowice 2015 Legends"
+                    },
+                    "name": "Sticker | Team EnVyUs (Holo) | Katowice 2015",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/eslkatowice2015/teamenvyus_holo.f899c827cecae6d746d4039d972aec6b3c8295a6.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-team-envyus-holo-katowice-2015",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 107.13,
+                        "rarity": 17.5
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Katowice 2019 Player Autographs"
+                    },
+                    "name": "Sticker | NBK- (Gold) | Katowice 2019",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/sig_nbk_gold.7d6634d49eb0bbec9005f06662937cc7a7ada337.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-nbk--gold-katowice-2019",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 71.53,
+                        "rarity": 18.2
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 7019.49,
+                "priceBeforeDiscount": 7019.49,
+                "extra": {
+                    "stickers": 67.8
+                },
+                "discount": 0.046,
+                "computed": 6696.44
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/3b4ed8fa048295b9d9adba6e06ec9927"
+            }
+        },
+        {
+            "id": 6805656,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198036030455",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 94.41
+                }
+            },
+            "asset": {
+                "id": 30203442726,
+                "names": {
+                    "short": "AK-47 | Gold Arabesque",
+                    "full": "AK-47 | Gold Arabesque (Factory New)",
+                    "identifier": 1087507
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09u5mIS0luX1Mb7Ch35U18l4jeHVu9zx2VbkqUE-NTqictOdJgQ_ZVDT_VG5xu3pgsO76MnNy3Fqvigg5yrD30vgkVPLuPE"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 938,
+                "type": 3,
+                "collection": {
+                    "name": "2021 Dust 2",
+                    "image": null
+                },
+                "float": 0.063039116561412,
+                "inspect": "9864651235918006641",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Halo Capsule"
+                    },
+                    "name": "Sticker | Incineration (Holo)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/halo/incineration_holo.3dd58e40e3baca128c0e4e7d665b03034a198a37.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-incineration-holo",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 5.22,
+                        "rarity": 1.6
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Halo Capsule"
+                    },
+                    "name": "Sticker | Incineration (Holo)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/halo/incineration_holo.3dd58e40e3baca128c0e4e7d665b03034a198a37.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-incineration-holo",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 5.22,
+                        "rarity": 1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Halo Capsule"
+                    },
+                    "name": "Sticker | Incineration (Holo)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/halo/incineration_holo.3dd58e40e3baca128c0e4e7d665b03034a198a37.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-incineration-holo",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 5.22,
+                        "rarity": 1.6
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Sticker Capsule 2"
+                    },
+                    "name": "Sticker | Crown (Foil)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stickers2/crown_foil.77c38fe60426ee084fd5c8fec0c680c342e05743.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-crown-foil",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1128.21,
+                        "rarity": 378.3
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 7866.21,
+                "priceBeforeDiscount": 8248.71,
+                "extra": {
+                    "stickers": 382.5
+                },
+                "discount": 0.1428,
+                "computed": 7071
+            },
+            "links": {}
+        },
+        {
+            "id": 6140376,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198036030455",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 94.41
+                }
+            },
+            "asset": {
+                "id": 29804532363,
+                "names": {
+                    "short": "AK-47 | Gold Arabesque",
+                    "full": "AK-47 | Gold Arabesque (Factory New)",
+                    "identifier": 1087507
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/d7b44e37c17340eba58ca1545e1e25a0_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09u5mIS0luX1Mb7Ch35U18l4jeHVu9zx2VbkqUE-NTqictOdJgQ_ZVDT_VG5xu3pgsO76MnNy3Fqvigg5yrD30vgkVPLuPE",
+                    "preview": "https://s1.cs.money/d7b44e37c17340eba58ca1545e1e25a0_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 12,
+                "type": 3,
+                "collection": {
+                    "name": "2021 Dust 2",
+                    "image": null
+                },
+                "float": 0.054318994283676,
+                "inspect": "14412262234783523793",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Boston 2018 Player Autographs"
+                    },
+                    "name": "Sticker | B1ad3 (Gold) | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_b1ad3_gold.a0b3ee7489fc8e7185de9927a8d080886b5bfac3.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-b1ad3-gold-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 117.59,
+                        "rarity": 31
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Boston 2018 Player Autographs"
+                    },
+                    "name": "Sticker | B1ad3 (Gold) | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_b1ad3_gold.a0b3ee7489fc8e7185de9927a8d080886b5bfac3.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-b1ad3-gold-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 117.59,
+                        "rarity": 25.9
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Boston 2018 Player Autographs"
+                    },
+                    "name": "Sticker | B1ad3 (Gold) | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/sig_b1ad3_gold.a0b3ee7489fc8e7185de9927a8d080886b5bfac3.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-b1ad3-gold-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 117.59,
+                        "rarity": 31
+                    }
+                },
+                null
+            ],
+            "pricing": {
+                "default": 7826.51,
+                "priceBeforeDiscount": 7826.51,
+                "extra": {
+                    "stickers": 87.9
+                },
+                "discount": -0.0002,
+                "computed": 7828
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/d7b44e37c17340eba58ca1545e1e25a0"
+            }
+        },
+        {
+            "id": 6774258,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198131466145",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 2.87,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 29578584727,
+                "names": {
+                    "short": "\u2605 Talon Knife | Doppler Sapphire",
+                    "full": "\u2605 StatTrak\u2122 Talon Knife | Doppler Sapphire (Factory New)",
+                    "identifier": 549422
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/7fdede3ecc91dcc93a025440e69b4b9b_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-KmsjnMqvBnmJD7fp8i_vD-Yn8klGwlB81NDG3Oo6WIw9vMF-BqAfokuzv18LptcnLziEyvCEksC2PlkeziR0eO-I9gvCACQLJ2IFZdow",
+                    "preview": "https://s1.cs.money/7fdede3ecc91dcc93a025440e69b4b9b_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 330,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.06343437731266001,
+                "inspect": "180261060536703029",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7800,
+                "priceBeforeDiscount": 7800,
+                "extra": null,
+                "discount": 0.0452,
+                "computed": 7447.11
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/7fdede3ecc91dcc93a025440e69b4b9b"
+            }
+        },
+        {
+            "id": 3536082,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198796572818",
+                "botId": 2110,
+                "delivery": {
+                    "speed": "instant",
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 27692152744,
+                "names": {
+                    "short": "\u2605 Skeleton Knife | Crimson Web",
+                    "full": "\u2605 Skeleton Knife | Crimson Web (Factory New)",
+                    "identifier": 1079108
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/ba506a8e6fc7c99d02bce4558101e055_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJnJm0gPL2IITdn2xZ_Isj3OyT8dqh2VK1-BY-Zjr1dY-VJFU9Mw7T8wfowb_o05S8v5vOnHdlpGB8sg2OaNUu",
+                    "preview": "https://s1.cs.money/ba506a8e6fc7c99d02bce4558101e055_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": null,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": null,
+                "inspect": "7369085913588178253",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7700,
+                "priceBeforeDiscount": 7700,
+                "extra": null,
+                "discount": 0.2308,
+                "computed": 5923.08
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/ba506a8e6fc7c99d02bce4558101e055"
+            }
+        },
+        {
+            "id": 7329014,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199192478847",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 16.35,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 30470771822,
+                "names": {
+                    "short": "M4A4 | Howl",
+                    "full": "StatTrak\u2122 M4A4 | Howl (Field-Tested)",
+                    "identifier": 14367
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwT09S5g4yCmfDLPr7Vn35cppYo0riZp4-t3Q2x_UVpYGr6LIXHJABrYVGB_QS5k72905S_75ycm3t9-n51e4WtYjg"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "ft",
+                "rarity": "Contraband",
+                "pattern": 266,
+                "type": 3,
+                "collection": {
+                    "name": "Huntsman",
+                    "image": null
+                },
+                "float": 0.173685103654861,
+                "inspect": "12261303031616711916",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Boston 2018 Returning Challengers"
+                    },
+                    "name": "Sticker | FaZe Clan (Holo) | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/faze_holo.0b77453c47ddcd46dba95e42d34814d79339c1bc.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-faze-clan-holo-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 46.48,
+                        "rarity": 1.7
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Boston 2018 Returning Challengers"
+                    },
+                    "name": "Sticker | Cloud9 (Holo) | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/c9_holo.e9190d95c85f2b5d2dab5227daf1b8e37cbb94af.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-cloud9-holo-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 81.95,
+                        "rarity": 3.2
+                    }
+                },
+                null,
+                {
+                    "collection": {
+                        "name": "Katowice 2019 Returning Challengers"
+                    },
+                    "name": "Sticker | Tyloo (Holo) | Katowice 2019",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/katowice2019/tyl_holo.9ac749eb6a24bbd40d73cb50ea36f9b3614408c1.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-tyloo-holo-katowice-2019",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 15.37,
+                        "rarity": 0.3
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 7588.17,
+                "priceBeforeDiscount": 7635.81,
+                "extra": {
+                    "float": 42.44,
+                    "stickers": 5.2
+                },
+                "discount": -0.0185,
+                "computed": 7777
+            },
+            "links": {}
+        },
+        {
+            "id": 6538839,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198305185709",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 92.37
+                }
+            },
+            "asset": {
+                "id": 30035298624,
+                "names": {
+                    "short": "M4A4 | Howl",
+                    "full": "StatTrak\u2122 M4A4 | Howl (Field-Tested)",
+                    "identifier": 14367
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/c727833d7c853c85d4432ee46bfa045d_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwT09S5g4yCmfDLPr7Vn35cppYo0riZp4-t3Q2x_UVpYGr6LIXHJABrYVGB_QS5k72905S_75ycm3t9-n51e4WtYjg",
+                    "preview": "https://s1.cs.money/c727833d7c853c85d4432ee46bfa045d_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": true,
+                "quality": "ft",
+                "rarity": "Contraband",
+                "pattern": 1,
+                "type": 3,
+                "collection": {
+                    "name": "Huntsman",
+                    "image": null
+                },
+                "float": 0.17431031167507102,
+                "inspect": "13873528361034777772",
+                "rank": null
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "DreamHack 2014 Challengers"
+                    },
+                    "name": "Sticker | iBUYPOWER | DreamHack 2014",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/ibuypower.9df10e3019f74586265d2f22f9c3f99664308e6c.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-ibuypower-dreamhack-2014",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 177.96,
+                        "rarity": 12.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "DreamHack 2014 Challengers"
+                    },
+                    "name": "Sticker | iBUYPOWER | DreamHack 2014",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/dhw2014/ibuypower.9df10e3019f74586265d2f22f9c3f99664308e6c.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-ibuypower-dreamhack-2014",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 177.96,
+                        "rarity": 12.1
+                    }
+                },
+                null,
+                {
+                    "collection": {
+                        "name": null
+                    },
+                    "name": "Sticker | Howling Dawn",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/community01/howling_dawn.a3f15e9e98cdb1a446255edbb6ee5dad95c120fd.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-howling-dawn",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 1413,
+                        "rarity": 37
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 7692.43,
+                "priceBeforeDiscount": 7692.43,
+                "extra": {
+                    "float": 33.86,
+                    "stickers": 61.2
+                },
+                "discount": -0.0595,
+                "computed": 8150
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/c727833d7c853c85d4432ee46bfa045d"
+            }
+        },
+        {
+            "id": 7436539,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198163250765",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30400520651,
+                "names": {
+                    "short": "\u2605 Bayonet | Doppler Ruby",
+                    "full": "\u2605 Bayonet | Doppler Ruby (Factory New)",
+                    "identifier": 843
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/66d7f81ad5582424c75d40e99981b30c_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zJfAJQ-d6vq42KhfX4NrLLk29u5Mx2gv2P9o6njA3mrxVrNm2iItXAdAY7ZFuEq1e2wri-gsTousjBn3Nqs3Fw5GGdwUIbpPL9uQ",
+                    "preview": "https://s1.cs.money/66d7f81ad5582424c75d40e99981b30c_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 53,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.011898402124643,
+                "inspect": "2803153120784247112",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7653.66,
+                "priceBeforeDiscount": 7653.66,
+                "extra": null,
+                "discount": 0.1688,
+                "computed": 6361.94
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/66d7f81ad5582424c75d40e99981b30c"
+            }
+        },
+        {
+            "id": 7470681,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199024852577",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 10.71,
+                    "successRate": 66.67
+                }
+            },
+            "asset": {
+                "id": 30451917657,
+                "names": {
+                    "short": "\u2605 Stiletto Knife | Doppler Sapphire",
+                    "full": "\u2605 Stiletto Knife | Doppler Sapphire (Factory New)",
+                    "identifier": 201955
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/49e190177d705ca4d6e77353cfda6eee_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwOfBfThW-NOJlY20hPbkI7PYhG5u5cRjiOXE_JbwjGu4ohQ0J3fwIYGTIFdsaF-EqFXrxue-hcW9vpifwXRi6yQn4S7dzBLm001Ebedtm7XAHnagFOkl",
+                    "preview": "https://s1.cs.money/49e190177d705ca4d6e77353cfda6eee_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 133,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.031547468155622,
+                "inspect": "14044174398003393750",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7530.37,
+                "priceBeforeDiscount": 7530.37,
+                "extra": null,
+                "discount": 0.2205,
+                "computed": 5870
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/49e190177d705ca4d6e77353cfda6eee"
+            }
+        },
+        {
+            "id": 6569169,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199192478847",
+                "botId": null,
+                "delivery": {
+                    "speed": "slow",
+                    "medianTime": 16.35,
+                    "successRate": 100
+                }
+            },
+            "asset": {
+                "id": 30051698501,
+                "names": {
+                    "short": "\u2605 Sport Gloves | Vice",
+                    "full": "\u2605 Sport Gloves | Vice (Minimal Wear)",
+                    "identifier": 24224
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mJWOqOf9PbDummJW4NE_2u3Aooj2i1KwrkNoYW_7dYKXeg9vNVyC_AK-wb_thse9vpmYz3Bn7z5iuyh6Nk1_Sw"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Extraordinary",
+                "pattern": 842,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.14390449225902502,
+                "inspect": "9395398146021558136",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7447.5,
+                "priceBeforeDiscount": 7447.5,
+                "extra": null,
+                "discount": 0.2212,
+                "computed": 5800
+            },
+            "links": {}
+        },
+        {
+            "id": 7189238,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199024852577",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 10.71,
+                    "successRate": 66.67
+                }
+            },
+            "asset": {
+                "id": 30277955527,
+                "names": {
+                    "short": "\u2605 Sport Gloves | Vice",
+                    "full": "\u2605 Sport Gloves | Vice (Minimal Wear)",
+                    "identifier": 24224
+                },
+                "images": {
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mJWOqOf9PbDummJW4NE_2u3Aooj2i1KwrkNoYW_7dYKXeg9vNVyC_AK-wb_thse9vpmYz3Bn7z5iuyh6Nk1_Sw"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Extraordinary",
+                "pattern": 256,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.139579772949218,
+                "inspect": "3335274625624730070",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7447.5,
+                "priceBeforeDiscount": 7447.5,
+                "extra": null,
+                "discount": 0.2158,
+                "computed": 5840
+            },
+            "links": {}
+        },
+        {
+            "id": 6708606,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199024852577",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 10.71,
+                    "successRate": 66.67
+                }
+            },
+            "asset": {
+                "id": 30067200584,
+                "names": {
+                    "short": "\u2605 Sport Gloves | Vice",
+                    "full": "\u2605 Sport Gloves | Vice (Minimal Wear)",
+                    "identifier": 24224
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/7f75f970635cd0762242cab61eaee1d9_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mJWOqOf9PbDummJW4NE_2u3Aooj2i1KwrkNoYW_7dYKXeg9vNVyC_AK-wb_thse9vpmYz3Bn7z5iuyh6Nk1_Sw",
+                    "preview": "https://s1.cs.money/7f75f970635cd0762242cab61eaee1d9_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Extraordinary",
+                "pattern": 526,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.094523221254348,
+                "inspect": "14737232479862923536",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 9551.78,
+                "priceBeforeDiscount": 9551.78,
+                "extra": {
+                    "float": 2219.25
+                },
+                "discount": -0.0312,
+                "computed": 9850
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/7f75f970635cd0762242cab61eaee1d9"
+            }
+        },
+        {
+            "id": 7502064,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561197993296893",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 2.67,
+                    "successRate": 90.91
+                }
+            },
+            "asset": {
+                "id": 30561017128,
+                "names": {
+                    "short": "\u2605 Sport Gloves | Omega",
+                    "full": "\u2605 Sport Gloves | Omega (Factory New)",
+                    "identifier": 29026
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/2b73604b196acf366275f593e209f971_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eO0mIGInMjjNrnTn2VW19x0huXO4rP5gVO8v11pN26hJYaUJ1Q5aV_VqVW_kri5gJ7pvMuYySFjsnEm7CnanBW00x1McKUx0jX7Ty6x",
+                    "preview": "https://s1.cs.money/2b73604b196acf366275f593e209f971_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Extraordinary",
+                "pattern": 637,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.0656623467803,
+                "inspect": "7677345419010434332",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7432.8,
+                "priceBeforeDiscount": 7432.8,
+                "extra": null,
+                "discount": 0.0246,
+                "computed": 7250
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/2b73604b196acf366275f593e209f971"
+            }
+        },
+        {
+            "id": 7395576,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198036030455",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 94.41
+                }
+            },
+            "asset": {
+                "id": 30507846999,
+                "names": {
+                    "short": "AWP | Medusa",
+                    "full": "AWP | Medusa (Factory New)",
+                    "identifier": 12290
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/379f5912dece8c6c6002f6ad4a72b5a3_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17P7NdShR7eO3g5C0m_7zO6-fxj5SvsMkib-W9N7zilLjr0NoYW_wI4OTelRvYwmC-FTrxeq915a074OJlyVOUzvCjQ",
+                    "preview": "https://s1.cs.money/379f5912dece8c6c6002f6ad4a72b5a3_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 583,
+                "type": 4,
+                "collection": {
+                    "name": "Gods and Monsters",
+                    "image": null
+                },
+                "float": 0.06003695726394601,
+                "inspect": "578720123275065955",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7287.9,
+                "priceBeforeDiscount": 7287.9,
+                "extra": null,
+                "discount": 0.1784,
+                "computed": 5988
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/379f5912dece8c6c6002f6ad4a72b5a3"
+            }
+        },
+        {
+            "id": 4754160,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198359937568",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 5.7,
+                    "successRate": 95.65
+                }
+            },
+            "asset": {
+                "id": 28891660020,
+                "names": {
+                    "short": "\u2605 Specialist Gloves | Fade",
+                    "full": "\u2605 Specialist Gloves | Fade (Factory New)",
+                    "identifier": 28540
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/e7a9375d84ed4f188bf5d6e7edc0c5d2_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDL3Qkm5u5Mx2gv2PrN-l0AS3-ENsZzimJ4DEIwM8YQzY_Qfqwb2615a4uJvKy3trviUhtmGdwUI6U-OVuA",
+                    "preview": "https://s1.cs.money/e7a9375d84ed4f188bf5d6e7edc0c5d2_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Extraordinary",
+                "pattern": 757,
+                "type": 13,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.068034723401069,
+                "inspect": "894853314499449396",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7280.13,
+                "priceBeforeDiscount": 7280.13,
+                "extra": null,
+                "discount": 0.0795,
+                "computed": 6701.03
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/e7a9375d84ed4f188bf5d6e7edc0c5d2"
+            }
+        },
+        {
+            "id": 7470682,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561199024852577",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 10.71,
+                    "successRate": 66.67
+                }
+            },
+            "asset": {
+                "id": 30443935658,
+                "names": {
+                    "short": "\u2605 Flip Knife | Doppler Sapphire",
+                    "full": "\u2605 Flip Knife | Doppler Sapphire (Factory New)",
+                    "identifier": 15485
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/f54a91a8ad6cf4f17019598dcbdad596_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD4eOllZCbn_7mNoTcl3lT5MB4kOzFyoD8j1yg5UBuazj3cYKQJwA5ZwnVrla_yLi5hcPp6szPwHZqvnVx5n_Vyhzjgh1SLrs4EHv5ZcQ",
+                    "preview": "https://s1.cs.money/f54a91a8ad6cf4f17019598dcbdad596_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 444,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.034381959587335,
+                "inspect": "7108055578623956655",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7242.05,
+                "priceBeforeDiscount": 7242.05,
+                "extra": null,
+                "discount": 0.2074,
+                "computed": 5740
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/f54a91a8ad6cf4f17019598dcbdad596"
+            }
+        },
+        {
+            "id": 7360812,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198305185709",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 92.37
+                }
+            },
+            "asset": {
+                "id": 30488742664,
+                "names": {
+                    "short": "\u2605 Flip Knife | Doppler Sapphire",
+                    "full": "\u2605 Flip Knife | Doppler Sapphire (Factory New)",
+                    "identifier": 15485
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/2ba94384a7b90a7d63afd08fca2ebb16_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD4eOllZCbn_7mNoTcl3lT5MB4kOzFyoD8j1yg5UBuazj3cYKQJwA5ZwnVrla_yLi5hcPp6szPwHZqvnVx5n_Vyhzjgh1SLrs4EHv5ZcQ",
+                    "preview": "https://s1.cs.money/2ba94384a7b90a7d63afd08fca2ebb16_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 539,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.034742608666419,
+                "inspect": "10001509627001926663",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7242.05,
+                "priceBeforeDiscount": 7242.05,
+                "extra": null,
+                "discount": 0.0424,
+                "computed": 6935
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/2ba94384a7b90a7d63afd08fca2ebb16"
+            }
+        },
+        {
+            "id": 6315793,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198036030455",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.82,
+                    "successRate": 94.41
+                }
+            },
+            "asset": {
+                "id": 29333130484,
+                "names": {
+                    "short": "\u2605 Flip Knife | Doppler Sapphire",
+                    "full": "\u2605 Flip Knife | Doppler Sapphire (Factory New)",
+                    "identifier": 15485
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/67fce1baaf2ec281a5465992243114db_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJD4eOllZCbn_7mNoTcl3lT5MB4kOzFyoD8j1yg5UBuazj3cYKQJwA5ZwnVrla_yLi5hcPp6szPwHZqvnVx5n_Vyhzjgh1SLrs4EHv5ZcQ",
+                    "preview": "https://s1.cs.money/67fce1baaf2ec281a5465992243114db_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "fn",
+                "rarity": "Covert",
+                "pattern": 29,
+                "type": 2,
+                "collection": {
+                    "name": null,
+                    "image": null
+                },
+                "float": 0.04926737025380101,
+                "inspect": "14144296530581083177",
+                "rank": null
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 7242.05,
+                "priceBeforeDiscount": 7242.05,
+                "extra": null,
+                "discount": 0.0417,
+                "computed": 6940
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/67fce1baaf2ec281a5465992243114db"
+            }
+        },
+        {
+            "id": 7525455,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198878103342",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 28786619980,
+                "names": {
+                    "short": "AK-47 | Case Hardened",
+                    "full": "AK-47 | Case Hardened (Minimal Wear)",
+                    "identifier": 498
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/f5b86f39ab81094fbd8831f11bc9252a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO6nYeDg7mtYbiJkjoDvcAlj7yVotmtjAfjrkpoZW36IoaWclM3MFnY8lK9k-vnm9bi67lSw9Es",
+                    "preview": "https://s1.cs.money/f5b86f39ab81094fbd8831f11bc9252a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Classified",
+                "pattern": 508,
+                "type": 3,
+                "collection": {
+                    "name": "Arms Deal",
+                    "image": null
+                },
+                "float": 0.10089093446731567,
+                "inspect": "3084473586233435409",
+                "rank": null,
+                "blue": 23,
+                "backSide": 23,
+                "playSide": 23
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Boston 2018 Returning Challengers"
+                    },
+                    "name": "Sticker | Natus Vincere (Holo) | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/navi_holo.15a3ff92338c466202f94e62e2f02b1f4fdf2adc.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-natus-vincere-holo-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 12.9,
+                        "rarity": 1.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Boston 2018 Returning Challengers"
+                    },
+                    "name": "Sticker | Natus Vincere (Holo) | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/navi_holo.15a3ff92338c466202f94e62e2f02b1f4fdf2adc.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-natus-vincere-holo-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 12.9,
+                        "rarity": 0.7
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Boston 2018 Returning Challengers"
+                    },
+                    "name": "Sticker | Natus Vincere (Holo) | Boston 2018",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/boston2018/navi_holo.15a3ff92338c466202f94e62e2f02b1f4fdf2adc.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-natus-vincere-holo-boston-2018",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 12.9,
+                        "rarity": 1.1
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Stockholm 2021 Player Autographs"
+                    },
+                    "name": "Sticker | s1mple (Holo) | Stockholm 2021",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_s1mple_holo.e7045a161f647523778b85267d356a98e23cfb19.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-s1mple-holo-stockholm-2021",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 2.06,
+                        "rarity": 0.1
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 371.91,
+                "priceBeforeDiscount": 374.91,
+                "extra": {
+                    "stickers": 3
+                },
+                "discount": 0.3103,
+                "computed": 258.56
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/f5b86f39ab81094fbd8831f11bc9252a"
+            }
+        },
+        {
+            "id": 6814199,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198111728062",
+                "botId": null,
+                "delivery": {
+                    "speed": null,
+                    "medianTime": null,
+                    "successRate": null
+                }
+            },
+            "asset": {
+                "id": 30201271174,
+                "names": {
+                    "short": "AK-47 | Case Hardened",
+                    "full": "AK-47 | Case Hardened (Minimal Wear)",
+                    "identifier": 498
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/00b98ba7811b6360c138d8562effc110_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO6nYeDg7mtYbiJkjoDvcAlj7yVotmtjAfjrkpoZW36IoaWclM3MFnY8lK9k-vnm9bi67lSw9Es",
+                    "preview": "https://s1.cs.money/00b98ba7811b6360c138d8562effc110_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Classified",
+                "pattern": 445,
+                "type": 3,
+                "collection": {
+                    "name": "Arms Deal",
+                    "image": null
+                },
+                "float": 0.124577447772026,
+                "inspect": "2632007251214647615",
+                "rank": null,
+                "blue": 26,
+                "backSide": 26,
+                "playSide": 26
+            },
+            "stickers": null,
+            "pricing": {
+                "default": 380.08,
+                "priceBeforeDiscount": 380.08,
+                "extra": null,
+                "discount": 0.3157,
+                "computed": 260.07
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/00b98ba7811b6360c138d8562effc110"
+            }
+        },
+        {
+            "id": 7501920,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198140328362",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 8.36,
+                    "successRate": 86.69
+                }
+            },
+            "asset": {
+                "id": 30563876065,
+                "names": {
+                    "short": "AK-47 | Case Hardened",
+                    "full": "AK-47 | Case Hardened (Minimal Wear)",
+                    "identifier": 498
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/4c6c402b5abb33636f4946c73608ab4a_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO6nYeDg7mtYbiJkjoDvcAlj7yVotmtjAfjrkpoZW36IoaWclM3MFnY8lK9k-vnm9bi67lSw9Es",
+                    "preview": "https://s1.cs.money/4c6c402b5abb33636f4946c73608ab4a_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Classified",
+                "pattern": 264,
+                "type": 3,
+                "collection": {
+                    "name": "Arms Deal",
+                    "image": null
+                },
+                "float": 0.10638856887817383,
+                "inspect": "14764178816637649299",
+                "rank": null,
+                "blue": 11,
+                "backSide": 11,
+                "playSide": 11
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Antwerp 2022 Legends Stickers"
+                    },
+                    "name": "Sticker | Cloud9 (Glitter) | Antwerp 2022",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/c9_glitter.a973c6b00174b2b8f565ec9326cf61e2b825f1a4.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-cloud9-glitter-antwerp-2022",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 2.67,
+                        "rarity": 0.3
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Antwerp 2022 Legends Stickers"
+                    },
+                    "name": "Sticker | Cloud9 (Glitter) | Antwerp 2022",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/c9_glitter.a973c6b00174b2b8f565ec9326cf61e2b825f1a4.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-cloud9-glitter-antwerp-2022",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 2.67,
+                        "rarity": 0.2
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Antwerp 2022 Legends Stickers"
+                    },
+                    "name": "Sticker | Cloud9 (Glitter) | Antwerp 2022",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/c9_glitter.a973c6b00174b2b8f565ec9326cf61e2b825f1a4.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-cloud9-glitter-antwerp-2022",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 2.67,
+                        "rarity": 0.3
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Antwerp 2022 Legends Stickers"
+                    },
+                    "name": "Sticker | Ninjas in Pyjamas (Gold) | Antwerp 2022",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/antwerp2022/nip_gold.033eaba39fa7d421b071f582059e0fcfadbfd211.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-ninjas-in-pyjamas-gold-antwerp-2022",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 3.05,
+                        "rarity": 0.2
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 371.91,
+                "priceBeforeDiscount": 372.91,
+                "extra": {
+                    "stickers": 1
+                },
+                "discount": 0.2493,
+                "computed": 279.95
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/4c6c402b5abb33636f4946c73608ab4a"
+            }
+        },
+        {
+            "id": 7471458,
+            "appId": 730,
+            "seller": {
+                "steamId64": "76561198025741229",
+                "botId": null,
+                "delivery": {
+                    "speed": "fast",
+                    "medianTime": 1.86,
+                    "successRate": 90
+                }
+            },
+            "asset": {
+                "id": 30542110333,
+                "names": {
+                    "short": "AK-47 | Case Hardened",
+                    "full": "AK-47 | Case Hardened (Minimal Wear)",
+                    "identifier": 498
+                },
+                "images": {
+                    "screenshot": "https://s1.cs.money/c9a385854f7e32a79b1b97acdd5b0674_image.jpg",
+                    "steam": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhhwszHeDFH6OO6nYeDg7mtYbiJkjoDvcAlj7yVotmtjAfjrkpoZW36IoaWclM3MFnY8lK9k-vnm9bi67lSw9Es",
+                    "preview": "https://s1.cs.money/c9a385854f7e32a79b1b97acdd5b0674_large_preview.png"
+                },
+                "isSouvenir": false,
+                "isStatTrak": false,
+                "quality": "mw",
+                "rarity": "Classified",
+                "pattern": 60,
+                "type": 3,
+                "collection": {
+                    "name": "Arms Deal",
+                    "image": null
+                },
+                "float": 0.08174068480730057,
+                "inspect": "14711043929451963897",
+                "rank": null,
+                "blue": 24,
+                "backSide": 24,
+                "playSide": 24
+            },
+            "stickers": [
+                {
+                    "collection": {
+                        "name": "Stockholm 2021 Legends Stickers"
+                    },
+                    "name": "Sticker | FURIA (Holo) | Stockholm 2021",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/furi_holo.2f141d420fa296622dada841d32240798e13fe6a.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-furia-holo-stockholm-2021",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 6.52,
+                        "rarity": 0.6
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Stockholm 2021 Legends Stickers"
+                    },
+                    "name": "Sticker | FURIA (Holo) | Stockholm 2021",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/furi_holo.2f141d420fa296622dada841d32240798e13fe6a.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-furia-holo-stockholm-2021",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 6.52,
+                        "rarity": 0.4
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "Stockholm 2021 Legends Stickers"
+                    },
+                    "name": "Sticker | FURIA (Holo) | Stockholm 2021",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/furi_holo.2f141d420fa296622dada841d32240798e13fe6a.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-furia-holo-stockholm-2021",
+                    "wear": 0,
+                    "pricing": {
+                        "default": 6.52,
+                        "rarity": 0.6
+                    }
+                },
+                {
+                    "collection": {
+                        "name": "10 Year Birthday Sticker Capsule"
+                    },
+                    "name": "Sticker | Blue Gem (Glitter)",
+                    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/csgo10/blue_gem_glitter.a7b8c2ce5f99782b548de1a47c272239ca323477.png",
+                    "wiki": "https://wiki.cs.money/ru/stickers/sticker-blue-gem-glitter",
+                    "wear": 91,
+                    "pricing": {
+                        "default": 5.49,
+                        "rarity": null
+                    }
+                }
+            ],
+            "pricing": {
+                "default": 373.82,
+                "priceBeforeDiscount": 378.54,
+                "extra": {
+                    "float": 3.12,
+                    "stickers": 1.6
+                },
+                "discount": 0.2603,
+                "computed": 279.99
+            },
+            "links": {
+                "3d": "https://3d.cs.money/item/c9a385854f7e32a79b1b97acdd5b0674"
+            }
+        }
+    ]
+}
